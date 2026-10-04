@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vatsal 👋
 
-<!--
-**vatsalsagar-hub/vatsalsagar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student at Temple University** with an interest in backend development, databases, systems programming, and practical software projects.
 
-Here are some ideas to get you started:
+I enjoy building projects that combine problem-solving with real-world themes, especially motorsports, data, and interactive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Java, C, SQL, MIPS Assembly, Python, HTML/CSS  
+**Tools & Platforms:** SQL Server, SSMS, MARS, Git, GitHub, IntelliJ IDEA  
+**Core CS:** Object-Oriented Programming, Data Structures, Algorithms, Database Design, Computer Architecture, File I/O
+
+## Featured Projects
+
+### 🏎️ Apex Racing Formula 1 Database
+A relational Formula 1 team-management database built with **SQL Server and T-SQL**, featuring normalized tables, relationships, reusable views, stored procedures, and race analytics.
+
+[View Project →](https://github.com/vatsalsagar-hub/apex-racing-database)
+
+### 🏁 Racing Lap Time Analyzer
+A **MIPS assembly** application that analyzes lap times for multiple drivers, calculates totals and averages, finds fastest and slowest laps, and ranks drivers using selection sort.
+
+[View Project →](https://github.com/vatsalsagar-hub/racing-lap-time-analyzer)
+
+### 🎰 Java Slot Machine
+A reconstructed and expanded **Java** slot machine project featuring randomized spins, account balances, file persistence, payout logic, spin history, and player statistics.
+
+[View Project →](https://github.com/vatsalsagar-hub/java-slot-machine)
+
+## Currently
+
+- Studying Computer Science at Temple University
+- Expanding my backend and systems-development skills
+- Building portfolio projects for software engineering and technology internships
+
+## Connect
+
+- GitHub: [vatsalsagar-hub](https://github.com/vatsalsagar-hub)
+- Email: [vatsalgsagar@gmail.com](mailto:vatsalgsagar@gmail.com)
