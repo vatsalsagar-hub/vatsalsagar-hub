@@ -1,8 +1,6 @@
 # Hi, I'm Vatsal 👋
 
-I'm a **Computer Science student at Temple University** with an interest in backend development, databases, systems programming, and practical software projects.
-
-I enjoy building projects that combine problem-solving with real-world themes, especially motorsports, data, and interactive applications.
+I'm a Computer Science student at Temple University interested in backend development, databases, and systems programming. I like to build projects around things I'm actually interested in, like motorsports and data.
 
 ## Tech Stack
 
