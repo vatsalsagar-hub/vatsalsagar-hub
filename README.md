@@ -28,7 +28,7 @@ A reconstructed and expanded **Java** slot machine project featuring randomized 
 ## Currently
 
 - Studying Computer Science at Temple University
-- Expanding my backend and systems-development skills
+- Working on stronger backend and systems projects
 - Building portfolio projects for software engineering and technology internships
 
 ## Connect
